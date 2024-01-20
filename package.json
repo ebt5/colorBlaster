@@ -1,0 +1,17 @@
+{
+  "name": "colorBlasterMega",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+    // Include other dependencies here
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  // Include other fields as necessary
+}
